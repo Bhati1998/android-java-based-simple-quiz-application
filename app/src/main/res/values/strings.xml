@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SimpleQuizApplication</string>
+    <string name="quiz">quiz_image</string>
+    <string name="Quiz_Question">Quiz_Question</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+
+    <string name="question1">C is a structured programmming language</string>
+    <string name="question2">C contains object oriented programming concept</string>
+    <string name="question3">C has 32 keywords</string>
+    <string name="question4">C use only functional programming</string>
+    <string name="question5">C has 4 iterative concept</string>
+    <string name="question6">Android is a programming language</string>
+    <string name="question7">Android use java and kotlin as programming language</string>
+    <string name="question8">Android works on MVC pattern</string>
+    <string name="question9">PHP is for backend programming</string>
+    <string name="question10">React is a javascript framework</string>
+    <string name="true_answer">true</string>
+    <string name="false_answer">false</string>
+    <string name="True">That \'s true</string>
+    <string name="False">That \'s false</string>
+    <string name="Score">Score</string>
+    <string name="question_no">question no</string>
+    <string name="result">Result</string>
+    <string name="Quiz_image">Quiz_image</string>
+    <string name="Quiz_Application">Welcome to Quiz Application</string>
+    <string name="progress">progress</string>
+    <string name="Quiz_Game">Quiz Game</string>
+    <string name="your_result">TextView</string>
+    <string name="todo">TODO</string>
+</resources>
